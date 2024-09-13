@@ -135,5 +135,29 @@
 11- Set up a Pod with a gitRepo volume:
 
     ![alt text](image-17.png)
-    
+
     ![alt text](image-16.png)
+
+
+12- Resize a Persistent Volume Claim (PVC):
+
+    ![alt text](image-18.png)
+
+    ![alt text](image-20.png)
+
+    ![alt text](image-19.png)
+
+    ![alt text](image-21.png)
+
+    ![alt text](image-22.png)
+
+    ![alt text](image-23.png)
+
+
+13- Use subPath for mounting volumes:
+
+    ![alt text](image-26.png)
+
+    ![alt text](image-28.png)
+
+    ![alt text](image-27.png)
